@@ -7,6 +7,7 @@ import csv
 import psycopg2
 
 # Database connection parameters
+# Modify these to match your database
 db_params = {
     "host": "your_host",
     "database": "your_database",
